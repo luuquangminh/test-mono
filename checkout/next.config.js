@@ -10,8 +10,8 @@ module.exports = {
         new NextFederationPlugin({
           name: "checkout",
           remotes: {
-            home: `home@https://test-mono-checkout-7kf3.vercel.app/_next/static/chunks/remoteEntry.js`,
-            shop: "shop@https://test-mono-checkout-git-main-luuquangminh.vercel.app/_next/static/chunks//remoteEntry.js",
+            home: `home@https://test-mono-checkout-5r1x.vercel.app/_next/static/chunks/remoteEntry.js`,
+            shop: "shop@https://test-mono-checkout-git-main-luuquangminh.vercel.app/_next/static/chunks/remoteEntry.js",
           },
           filename: "static/chunks/remoteEntry.js",
           exposes: {

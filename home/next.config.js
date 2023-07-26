@@ -11,7 +11,7 @@ module.exports = {
             home: "home@http://localhost:3001/_next/static/chunks/remoteEntry.js",
             shop: "shop@https://test-mono-checkout-git-main-luuquangminh.vercel.app/_next/static/chunks//remoteEntry.js",
             checkout:
-              "checkout@http://localhost:3000/_next/static/chunks/remoteEntry.js",
+              "checkout@https://test-mono-checkout-lohd.vercel.app/_next/static/chunks/remoteEntry.js",
           },
           exposes: {
             "./nav": "./components/nav.js",
