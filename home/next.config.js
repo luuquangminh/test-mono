@@ -9,7 +9,7 @@ module.exports = {
           filename: "static/chunks/remoteEntry.js",
           remotes: {
             home: "home@http://localhost:3001/_next/static/chunks/remoteEntry.js",
-            shop: "shop@https://test-mono-checkout-git-main-luuquangminh.vercel.app/_next/static/chunks//remoteEntry.js",
+            shop: "shop@https://test-mono-checkout-5r1x.vercel.app/_next/static/chunks//remoteEntry.js",
             checkout:
               "checkout@https://test-mono-checkout-lohd.vercel.app/_next/static/chunks/remoteEntry.js",
           },
